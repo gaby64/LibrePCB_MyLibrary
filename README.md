@@ -1,8 +1,11 @@
 # MyComponents
 
 LERDGE TMC2209 Step Stick
+
 Pushbutton NO
+
 Potentiometer
+
 Arduino Nano
 
 ## Description
